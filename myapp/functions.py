@@ -27,7 +27,7 @@ def login():
     #chrome_options = Options()  
     #chrome_options.add_argument("--headless")  
     #driver = webdriver.Chrome(chrome_options=chrome_options)
-    driver=webdriver.Chrome(r'C:\Users\21261\Desktop\try\Browsers\chromedriver.exe') 
+    driver=webdriver.Chrome(r'Browsers\chromedriver.exe') 
     driver.maximize_window()
     driver.get("https://todoist.com/")
     #Input credentials
