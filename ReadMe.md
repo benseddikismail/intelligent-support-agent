@@ -1,7 +1,7 @@
 # Intelligent-Support-Agent
 Web interface encompassing a chatbot through which users can get automatic support and processing of their requests.
 
-**Note:** *This application was custom made for Renault Group stakeholders only.*
+**Note:** *This application was custom made for Renault Group stakeholders.*
 
 ### Home Section
 ![home](https://user-images.githubusercontent.com/63422923/138485955-96471dbe-2484-4f38-9719-68fcd76a676b.JPG)
